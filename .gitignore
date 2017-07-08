@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/doc/
+/logback/
+/.classpath
+/.project
+/.git
